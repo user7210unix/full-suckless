@@ -13,6 +13,9 @@
       <img src="showcase/dwm.png" align="right" alt="Rice Setup Preview" width="550" style="display: block; margin: 32px auto; border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
 </div>
 </div> 
+
+<div align="center">
+
   
 ## ⚙️ Features
 - **Window Manager** :bento: [DWM](https://dwm.suckless.org/)
