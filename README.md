@@ -48,6 +48,16 @@
 
 <div align="center">
 
+<div align="center">
+  <h2 style="font-size: 54px;">
+    <strong>
+      <a href="https://github.com/user7210unix/dwmpanel" style="text-decoration: none; color: inherit;">
+        <img src="https://github.com/favicon.ico" alt="Icon" style="vertical-align: middle; width: 24px; height: 24px; margin-right: 8px;">
+        DWM - PANEL
+      </a>
+    </strong>
+  </h2>
+
 
 # DWM - PANEL
 ### A custom made Python-based panel for dwm
