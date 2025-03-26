@@ -25,6 +25,9 @@
 - **Compositor** :shaved_ice: [Picom](https://github.com/yshui/picom)
 - **Terminal with Graphics** :rocket: [ST](https://tools.suckless.org/st/)
 
+
+
+
 <div align="center">
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
