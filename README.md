@@ -17,11 +17,6 @@
 <h1>
 
 
-<h1>
-      <img src="showcase/dwm.png" align="center" alt="Rice Setup Preview" width="550" style="display: block; margin: 32px auto; border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
-</div>
-</div> 
-
 <div align="center">
 
   
@@ -34,6 +29,10 @@
 - **Terminal with Graphics** :rocket: [ST](https://tools.suckless.org/st/)
 
 
+<h1>
+      <img src="showcase/dwm.png" align="center" alt="Rice Setup Preview" width="550" style="display: block; margin: 32px auto; border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
+</div>
+</div> 
 
 
 <div align="center">
