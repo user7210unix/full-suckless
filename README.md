@@ -14,7 +14,7 @@
 </div>
 </div> 
 
-<div align="center">
+<div align="left">
 
   
 ## ⚙️ Features
@@ -25,7 +25,7 @@
 - **Compositor** :shaved_ice: [Picom](https://github.com/yshui/picom)
 - **Terminal with Graphics** :rocket: [ST](https://tools.suckless.org/st/)
 
-<div align="center">
+<div align="right">
 
 
 ## 🔑 Key Bindings
