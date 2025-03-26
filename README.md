@@ -31,8 +31,6 @@
 - **Terminal Emulator** :leaves: [KITTY](https://github.com/kovidgoyal/kitty)
 - **Shell** :shell: [Fish](https://fishshell.com/)
 - **Compositor** :shaved_ice: [Picom](https://github.com/yshui/picom)
-- **Terminal with Graphics** :rocket: [ST](https://tools.suckless.org/st/)
-
 
 <div align="center">
 
