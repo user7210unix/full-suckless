@@ -20,7 +20,7 @@
 <div align="center">
 
   
-## ⚙️ Features
+#### ⚙️ Features
 - **Window Manager** :bento: [DWM](https://dwm.suckless.org/)
 - **Application Launcher** :rocket: [Dmenu](https://tools.suckless.org/dmenu/)
 - **Terminal Emulator** :leaves: [KITTY](https://github.com/kovidgoyal/kitty)
